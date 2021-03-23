@@ -7,7 +7,8 @@ I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, 
 - C#
 - C++
 - Pedalogical Psychology 
-- Educational applications of Sociology
+- Pedalogical application of Sociology
+- Pedalogical Application of Video Games and Interactive Media
 
 # Current Goals 🔴
 - Major in Computer Science and Applications
