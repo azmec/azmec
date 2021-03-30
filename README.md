@@ -17,7 +17,7 @@ I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, 
 - Vast amounts of reading
 
 # Where to Find Me 🔍
-- Nowhere else!
+- [itch.io](https://aldats.itch.io/)
 
 <!---
 azmec/azmec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
