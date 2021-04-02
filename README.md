@@ -4,7 +4,7 @@ I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, 
 # What I'm Currently Learning 📖
 - GDScript
 - Lua
-- C#
+- C
 - C++
 - Pedalogical Psychology 
 - Pedalogical application of Sociology
