@@ -1,5 +1,5 @@
 # Hi! 👋
-I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, and normalize interactive media for educational purposes. I primarily develop in Godot and LOVE2D, but am always exploring other frameworks and languages. Currently, I'm developing what I call *burner* projects in Godot and LOVE2D, which are just projects meant to show me the ropes of particular systems and ideas, the first and foremost of which is LITARGIE and LUAORYX.
+I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, and normalize interactive media for educational purposes. I primarily develop in Godot and LOVE2D, but am always exploring other frameworks and languages.
 
 # What I'm Currently Learning 📖
 - GDScript
@@ -13,7 +13,7 @@ I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, 
 # Current Goals 🔴
 - Major in Computer Science and Applications
 - Minor in Sociology
-- Completion of LITARGIE
+- Completing `CARD CASTER` for the [90 Days & Ship It! Game Jam](https://itch.io/jam/90-day-ship-it-jam-2021)
 - Vast amounts of reading
 
 # Where to Find Me 🔍
