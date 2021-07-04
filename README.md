@@ -1,26 +1,14 @@
-# Hi! 👋
-I'm a 17-year old games developer from the U.S., hoping to develop, legitimize, and normalize interactive media for educational purposes. I primarily develop in Godot and LOVE2D, but am always exploring other frameworks and languages.
+### Hi there :wave:, I'm Aldats!
 
-# What I'm Currently Learning 📖
-- GDScript
-- Lua
-- C
-- C++
-- Pedalogical Psychology 
-- Pedalogical application of Sociology
-- Pedalogical Application of Video Games and Interactive Media
+I'm an undergraduate programmer and an enthusiast digital, interactive solutions in education. 
 
-# Current Goals 🔴
-- Major in Computer Science and Applications
-- Minor in Sociology
-- Completing `CARD CASTER` for the [90 Days & Ship It! Game Jam](https://itch.io/jam/90-day-ship-it-jam-2021)
-- Vast amounts of reading
+#### Learning
+Currently, I'm working on improving my foundations in game design and programming and focusing on academic work. Other than that:
+- Software and web development in **Rust**
+- Game and module development in **Lua**
 
-# Where to Find Me 🔍
-- [itch.io](https://aldats.itch.io/)
-- [twitter](https://twitter.com/aldats4)
-
-<!---
-azmec/azmec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Find Me :mag:
+- Learning on [Github](https://github.com/azmec)
+- Sharing updates on [aldats.dev](www.aldats.dev)
+- Being a stain on the Web at [Twitter](https://twitter.com/aldats4)
+- Releasing games on [my itch page](https://aldats.itch.io/)
