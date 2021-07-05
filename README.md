@@ -9,6 +9,6 @@ Currently, I'm working on improving my foundations in game design and programmin
 
 #### Find Me :mag:
 - Learning on [Github](https://github.com/azmec)
-- Sharing updates on [aldats.dev](www.aldats.dev)
+- Sharing updates on [aldats.dev](https://www.aldats.dev)
 - Being a stain on the Web at [Twitter](https://twitter.com/aldats4)
 - Releasing games on [my itch page](https://aldats.itch.io/)
