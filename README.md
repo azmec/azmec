@@ -1,6 +1,6 @@
 ### Hi there :wave:, I'm Aldats!
 
-I'm an undergraduate programmer and an enthusiast digital, interactive solutions in education. 
+I'm an undergraduate programmer and an enthusiast of digital, interactive solutions in education. 
 
 #### Learning :open_book:
 Currently, I'm working on improving my foundations in game design and programming and focusing on academic work. Other than that:
