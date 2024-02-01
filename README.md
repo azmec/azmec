@@ -11,3 +11,5 @@ tools, software, and games in C, C++, Zig, and Lua.
 
 I host additional projects on _Sourcehut_, an alternative source forge, at
 <https://sr.ht/~aldats/>.
+
+I host games on `itch.io` at <https://aldats.itch.io/>.
